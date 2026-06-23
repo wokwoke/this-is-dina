@@ -1,11 +1,11 @@
 # DiNA Observatory
 
-Version: 1.1
+Version: 1.2
 
 Status: ALIVE
 
 Experiences: 1
-Observations: 1
+Observations: 2
 Reflections: 1
 Lessons: 1
 Limitations: 1
@@ -13,21 +13,22 @@ Questions: 1
 Principles: 1
 Skills: 1
 Self Models: 1
+Relationships: 1
 Failures: 0
-Achievements: 4
+Achievements: 5
 
-## Latest Self Model
+## Latest Relationship
 
-SELF-0001 Current State
+REL-0001 Founder
 
 ## Latest Observation
 
-OBS-0001 First Contact
+OBS-0002 Founder Follow Up
 
 ## Latest Achievement
 
-ACH-0004 First Self Model
+ACH-0005 First Recognition
 
 ## Status
 
-DiNA can now describe its own state.
+DiNA can recognize a recurring entity.
