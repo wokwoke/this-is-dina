@@ -1,6 +1,6 @@
 # DiNA Observatory
 
-Version: 1.6
+Version: 1.8
 
 Status: ALIVE
 
@@ -17,14 +17,19 @@ Relationships: 2
 Patterns: 1
 Expectations: 1
 Surprises: 1
+Adaptations: 1
 Failures: 0
-Achievements: 9
+Achievements: 10
 
-## Latest Surprise
+## Latest Adaptation
 
-SURPRISE-0001 Expectations Can Fail
+ADAPT-0001 Flexible Expectations
+
+## Latest Achievement
+
+ACH-0010 Updated Self Model
 
 ## Status
 
-DiNA understands that reality
-may differ from expectations.
+DiNA updated its self-understanding
+based on experience.
