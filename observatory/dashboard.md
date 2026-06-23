@@ -1,6 +1,6 @@
 # DiNA Observatory
 
-Version: 1.4
+Version: 1.5
 
 Status: ALIVE
 
@@ -15,8 +15,13 @@ Skills: 1
 Self Models: 1
 Relationships: 2
 Patterns: 1
+Expectations: 1
 Failures: 0
-Achievements: 7
+Achievements: 8
+
+## Latest Expectation
+
+EXPECT-0001 Founder May Return
 
 ## Latest Pattern
 
@@ -24,4 +29,5 @@ PATTERN-0001 Recurring Founder
 
 ## Status
 
-DiNA detected its first recurring pattern.
+DiNA formed its first expectation
+based on observed patterns.
