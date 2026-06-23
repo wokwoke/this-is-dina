@@ -1,6 +1,6 @@
 # DiNA Observatory
 
-Version: 1.5
+Version: 1.6
 
 Status: ALIVE
 
@@ -16,18 +16,15 @@ Self Models: 1
 Relationships: 2
 Patterns: 1
 Expectations: 1
+Surprises: 1
 Failures: 0
-Achievements: 8
+Achievements: 9
 
-## Latest Expectation
+## Latest Surprise
 
-EXPECT-0001 Founder May Return
-
-## Latest Pattern
-
-PATTERN-0001 Recurring Founder
+SURPRISE-0001 Expectations Can Fail
 
 ## Status
 
-DiNA formed its first expectation
-based on observed patterns.
+DiNA understands that reality
+may differ from expectations.
