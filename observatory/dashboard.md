@@ -1,15 +1,20 @@
 # DiNA Observatory
 
-Version: 0.5
+Version: 0.6
 
 Status: ALIVE
 
 Experiences: 1
 Reflections: 1
 Lessons: 1
+Limitations: 1
 Skills: 0
 Failures: 0
 Achievements: 1
+
+## Latest Limitation
+
+LIMIT-0001 Recorded Knowledge Only
 
 ## Latest Lesson
 
