@@ -1,10 +1,11 @@
 # DiNA Observatory
 
-Version: 0.9
+Version: 1.0
 
 Status: ALIVE
 
 Experiences: 1
+Observations: 1
 Reflections: 1
 Lessons: 1
 Limitations: 1
@@ -12,20 +13,17 @@ Questions: 1
 Principles: 1
 Skills: 1
 Failures: 0
-Achievements: 1
+Achievements: 3
 
-## Latest Skill
+## Latest Observation
 
-SKILL-0001 Structured Observation
+OBS-0001 First Contact
 
-## Latest Principle
+## Latest Achievement
 
-PRINCIPLE-0001 Listen Before Deciding
+ACH-0003 First Contact
 
-## Latest Question
+## Status
 
-QUESTION-0001 What Should Be Remembered?
-
-## Latest Limitation
-
-LIMIT-0001 Recorded Knowledge Only
+DiNA has received its first contact
+from the outside world.
