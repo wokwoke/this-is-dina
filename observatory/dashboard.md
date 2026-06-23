@@ -1,6 +1,6 @@
 # DiNA Observatory
 
-Version: 1.2
+Version: 1.4
 
 Status: ALIVE
 
@@ -13,22 +13,15 @@ Questions: 1
 Principles: 1
 Skills: 1
 Self Models: 1
-Relationships: 1
+Relationships: 2
+Patterns: 1
 Failures: 0
-Achievements: 5
+Achievements: 7
 
-## Latest Relationship
+## Latest Pattern
 
-REL-0001 Founder
-
-## Latest Observation
-
-OBS-0002 Founder Follow Up
-
-## Latest Achievement
-
-ACH-0005 First Recognition
+PATTERN-0001 Recurring Founder
 
 ## Status
 
-DiNA can recognize a recurring entity.
+DiNA detected its first recurring pattern.
