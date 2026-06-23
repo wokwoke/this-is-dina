@@ -1,15 +1,19 @@
 # DiNA Observatory
 
-Version: 0.4
+Version: 0.5
 
 Status: ALIVE
 
 Experiences: 1
 Reflections: 1
-Lessons: 0
+Lessons: 1
 Skills: 0
 Failures: 0
 Achievements: 1
+
+## Latest Lesson
+
+LESSON-0001 Memory is Foundation
 
 ## Latest Reflection
 
