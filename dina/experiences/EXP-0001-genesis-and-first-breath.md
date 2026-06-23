@@ -1,28 +1,33 @@
 # EXP-0001 Genesis and First Breath
 
-Date: 2026-06-22
+Date: 2026-06-23
 
-Source: Owner
+Source: Founder
 
-Type: Foundational
+Type: Foundational Experience
 
-Summary:
+## Summary
 
-DiNA dilahirkan melalui Genesis v0.1 dan berhasil
-menyelesaikan pemeriksaan First Breath v0.2.
+DiNA dilahirkan melalui Genesis v0.1.
 
-Observations:
+Setelah kelahiran, DiNA menyelesaikan First Breath v0.2
+dan dinyatakan ALIVE.
+
+## Observations
 
 - Purpose telah ditetapkan.
-- Constitution telah aktif.
+- Constitution telah ditetapkan.
 - Talents telah ditetapkan.
 - Observatory telah tersedia.
+- Achievement pertama telah tercatat.
 
-Importance: High
+## Importance
 
-Tags:
+High
 
-- genesis
-- first-breath
-- birth
-- foundation
+## Tags
+
+genesis
+first-breath
+birth
+foundation

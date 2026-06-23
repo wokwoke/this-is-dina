@@ -10,8 +10,10 @@ Skills: 0
 Failures: 0
 Achievements: 1
 
-Latest Experience:
+## Latest Experience
+
 EXP-0001 Genesis and First Breath
 
-Latest Achievement:
+## Latest Achievement
+
 ACH-0001 First Breath
